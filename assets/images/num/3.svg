@@ -1,0 +1,21 @@
+<svg width="111" height="135" viewBox="0 0 111 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="filter0_d_5_2536" x="0" y="0.779999" width="110.246" height="133.548" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="11"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.104167 0 0 0 0 0.104167 0 0 0 0 0.104167 0 0 0 0.67 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5_2536"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_5_2536" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_5_2536" x1="21.0308" y1="81.2613" x2="90.9607" y2="83.4788" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#7B7B7B"/>
+</linearGradient>
+</defs>
+<g filter="url(#filter0_d_5_2536)">
+<path d="M44.936 112.328C40.6253 112.328 36.3553 111.921 32.126 111.108C27.978 110.295 24.6027 109.115 22 107.57V87.806C25.5787 89.9207 29.2387 91.466 32.98 92.442C36.8027 93.3367 40.6253 93.784 44.448 93.784C49.1653 93.784 53.0693 92.9707 56.16 91.344C59.2507 89.7173 60.796 86.952 60.796 83.048C60.796 81.34 60.3893 79.9167 59.576 78.778C58.7627 77.558 57.136 76.6633 54.696 76.094C52.3373 75.4433 48.84 75.118 44.204 75.118H39.202L42.374 57.794H47.01C52.7033 57.794 57.2173 56.8993 60.552 55.11C63.8867 53.2393 65.554 50.6773 65.554 47.424C65.554 46.0413 64.944 44.6993 63.724 43.398C62.5853 42.0153 60.5113 41.324 57.502 41.324C54.818 41.324 52.134 41.812 49.45 42.788C46.8473 43.6827 44.1633 44.862 41.398 46.326L32.004 31.564C36.2333 28.88 40.5847 26.7653 45.058 25.22C49.6127 23.5933 55.2247 22.78 61.894 22.78C69.702 22.78 76.046 24.61 80.926 28.27C85.806 31.8487 88.246 36.8913 88.246 43.398C88.246 49.8233 86.3347 54.866 82.512 58.526C78.6893 62.1047 73.8093 64.504 67.872 65.724V66.212C73.24 67.2693 77.3067 69.5467 80.072 73.044C82.8373 76.5413 84.22 80.6893 84.22 85.488C84.22 91.7507 82.4307 96.8747 78.852 100.86C75.2733 104.845 70.5153 107.773 64.578 109.644C58.6407 111.433 52.0933 112.328 44.936 112.328Z" fill="url(#paint0_linear_5_2536)"/>
+</g>
+</svg>

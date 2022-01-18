@@ -1,0 +1,26 @@
+<svg width="173" height="134" viewBox="0 0 173 134" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="filter0_d_5_2545" x="0" y="0.780029" width="172.354" height="132.328" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="11"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.104167 0 0 0 0 0.104167 0 0 0 0 0.104167 0 0 0 0.67 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_5_2545"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_5_2545" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_5_2545" x1="12.8635" y1="81.2614" x2="152.303" y2="90.1044" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#7B7B7B"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5_2545" x1="12.8635" y1="81.2614" x2="152.303" y2="90.1044" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#7B7B7B"/>
+</linearGradient>
+</defs>
+<g filter="url(#filter0_d_5_2545)">
+<path d="M46.4 63.528C46.888 61.2507 47.5387 58.648 48.352 55.72C49.2467 52.792 50.1007 50.3114 50.914 48.278C49.7753 49.3354 48.4333 50.474 46.888 51.694C45.3427 52.8327 44.082 53.7274 43.106 54.378L31.028 61.82L22 46.814L58.966 24H77.51L59.21 111.108H36.03L46.4 63.528Z" fill="url(#paint0_linear_5_2545)"/>
+<path d="M80.4475 111.108L83.6195 95.858L112.412 69.872C118.186 64.6667 122.09 60.356 124.124 56.94C126.157 53.4427 127.174 50.596 127.174 48.4C127.174 46.448 126.645 44.984 125.588 44.008C124.612 43.032 123.31 42.544 121.684 42.544C119.162 42.544 116.519 43.3167 113.754 44.862C110.988 46.326 108.06 48.4814 104.97 51.328L93.8675 35.956C98.1782 31.8894 102.977 28.6767 108.264 26.318C113.55 23.9594 119.488 22.78 126.076 22.78C133.314 22.78 139.17 24.732 143.644 28.636C148.117 32.54 150.354 37.908 150.354 44.74C150.354 48.4814 149.662 52.1414 148.28 55.72C146.978 59.2174 144.66 62.9587 141.326 66.944C137.991 70.848 133.355 75.362 127.418 80.486L115.218 90.978V91.71H144.376L140.35 111.108H80.4475Z" fill="url(#paint1_linear_5_2545)"/>
+</g>
+</svg>
